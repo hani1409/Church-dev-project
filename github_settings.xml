@@ -1,0 +1,8 @@
+<application>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="hani1409" />
+    <option name="HOST" value="https://github.com/hani1409/Church-dev-project" />
+    <option name="AUTH_TYPE" value="BASIC" />
+    <option name="CLONE_GIT_USING_SSH" value="true" />
+  </component>
+</application>
